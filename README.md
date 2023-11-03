@@ -1,2 +1,1 @@
-# livr-merchant
-expo react-native merchant portal
+# enatega-multivendor-restaurant
